@@ -1,3 +1,3 @@
 # test
 
-[Read more words!](docs/test.docx)
+[Read more words!](docs/child.md)
